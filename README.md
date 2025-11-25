@@ -28,3 +28,5 @@ o	Option 2 to mark a habit as completed.
 o	Option 3 to view all habits and their status.
 o	Option 4 to exit the program.
 
+By Faiz Khan, 25BSA10045
+
