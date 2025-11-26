@@ -10,7 +10,7 @@ The Habit Tracker project is designed as a command-line application built in Pyt
 
 Target Users
 
-Students who want to build study routines
+Students like me who want to build study routines
 
 Professionals aiming to improve productivity and wellness habits
 
